@@ -139,6 +139,7 @@ void loop() {
   + 01/24/23 Tested code
   + 02/12/23 Remade Onshape document
   + 03/9/23 Finished revised Onshape document
+  + 03/9/23 made Code V2
   + 03/10/23 printed and laser cut
   
   ## Obstacles
