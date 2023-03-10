@@ -57,6 +57,75 @@ void loop() {
   AngleStepper.step(int((angle*200)/360));
   ```
   
+ ### Codev2
+ 
+ ```C++
+#include <Stepper.h>
+
+const int stepsPerRevolution = 200;  // change this to fit the number of steps per revolution for your motor
+const int topStepperPin1 = 2;
+const int topStepperPin2 = 3;
+const int topStepperPin3 = 4;
+const int topStepperPin4 = 5;
+const int bottomStepperPin1 = 6;
+const int bottomStepperPin2 = 7;
+const int bottomStepperPin3 = 8;
+const int bottomStepperPin4 = 9;
+const int gearTeeth = 20;  // number of teeth on the gear
+const float armLength = 218.65240;  // length of the arm in mm
+const float maxPos = 138.59293;  // maximum position in mm
+const float minPos = -138.59293;  // minimum position in mm
+const int xPotPin = A0;  // analog input pin for the x potentiometer
+const int yPotPin = A1;  // analog input pin for the y potentiometer
+const int solenoidPin = 10;  // digital output pin for the solenoid
+const int buttonPin = 11;  // digital input pin for the button
+
+Stepper topStepper(stepsPerRevolution, topStepperPin1, topStepperPin2, topStepperPin3, topStepperPin4);
+Stepper bottomStepper(stepsPerRevolution, bottomStepperPin1, bottomStepperPin2, bottomStepperPin3, bottomStepperPin4);
+
+int lastXPotVal = -1;
+int lastYPotVal = -1;
+
+void setup() {
+  // set up the solenoid and button pins
+  pinMode(solenoidPin, OUTPUT);
+  pinMode(buttonPin, INPUT);
+  
+  // set the speed of the motors
+  topStepper.setSpeed(60);
+  bottomStepper.setSpeed(30);
+}
+
+void loop() {
+  // read the potentiometer values
+  int xPotVal = analogRead(xPotPin);
+  int yPotVal = analogRead(yPotPin);
+  
+  // check if the potentiometer values have changed
+  if (xPotVal != lastXPotVal || yPotVal != lastYPotVal) {
+    // update the last potentiometer values
+    lastXPotVal = xPotVal;
+    lastYPotVal = yPotVal;
+    
+    // convert the potentiometer values to Cartesian coordinates
+    float xPos = map(xPotVal, 0, 1023, minPos, maxPos);
+    float yPos = map(yPotVal, 0, 1023, minPos, maxPos);
+    
+    // calculate the distance the arm should move
+    float armDist = sqrt(xPos * xPos + yPos * yPos) / 10;  // convert mm to cm
+    
+    // calculate the angle to move the arm to
+    float armAngle = atan2(yPos, xPos);
+    
+    // rotate the bottom stepper to move the top mount
+    bottomStepper.step(stepsPerRevolution/4);
+    
+    // calculate the number of steps for the top stepper
+    int topSteps = int(armDist / (2 * M_PI * armLength / gearTeeth) * stepsPerRevolution);
+    
+    //
+```
+  
   ## Photos
  
   ![GoodShot](https://user-images.githubusercontent.com/71350243/224200159-39b65a96-70e8-4f7f-bd1b-6f4d997a2ca9.png)
