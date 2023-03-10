@@ -1,21 +1,24 @@
-#Planning
+# Chess Arm
+## Planning
 https://docs.google.com/document/d/1w128rAIOWzhnq0nkOWPgndezun0yfNx6PoaC3awFNQs/edit?usp=sharing
-#Onshape Document
+## Onshape Document
 https://cvilleschools.onshape.com/documents/aae0fa9e1b02e080af2f278c/w/f677a802c177e5583c740454/e/9a0adf56d347956ab28b4bb6?renderMode=0&uiState=64079963477be604b36eb6c1
 
-#Materials Used
-Acrylic
-PLA
-2 stepper motors
-Arduino uno
-Battery pack
-Solenoid
-magnets
+## Materials Used
++ Acrylic
++ PLA
++ 2 stepper motors
++ Arduino uno
++ Battery pack
++ Solenoid
++ magnets
 
-#Wiring Diagram
+## Wiring Diagram
 ![image](https://user-images.githubusercontent.com/71350243/224154497-09df0b6e-61dd-4b60-9a46-b2c5e3361fe6.png)
 
-#Code
+## Code
+
+```C++
 #include <Stepper.h>
 #include <math.h>
 
@@ -52,9 +55,10 @@ void loop() {
   angle = (atan2(y,x) * 180 / M_PI);
   RStepper.step(int((radius*200)/360));
   AngleStepper.step(int((angle*200)/360));
+  ```
   
-  #photos
+  ## photos
   
-  #Milestones
+  ## Milestones
   
-  #Obstacles
+  ## Obstacles
