@@ -148,8 +148,8 @@ void loop() {
   
   ## Obstacles
   
-  There were many obstacles as we designed and assembled our project. The Onshape document took alot of time to make and after we realized we made it too big we had to make a new redesigned version. this version was alot smaller and better balanced. coding was also an obstacle because neither me or joshua are very good at coding. I still can't get the code to work.
+  There were many obstacles as we designed and assembled our project. The Onshape document took a lot of time to make, after we realized we made it too big and we had to make a redesigned version. This version was a lot smaller and utilized a shelf to hoist the rack and pinion. Coding was also an obstacle because neither me or Joshua are very good at coding. The Code was the singular most infuriating part of the project, we've spent weeks trying new things but eventually we found a code that worked. Vincent got sick like 3 times over the winter while I (Joshua) got sick once (not a flex or anything).
   
   ## Reflection
   
-  This project took alot of time and was very stressful. if I were to redo this I would have prototyped and started printing sooner. I would not make it a polar arm but a cartesian arm as the math and code are difficult. I would have tried to stick with the timeline and done an easier project if I could do it again. 
+  This project took a lot of time and was very stressful. If we were to redo this we would have used a rough prototysooner. I would not make it a polar arm but a cartesian arm as the math and code are difficult. I would have tried to stick with the timeline and done an easier project if I could do it again. 
