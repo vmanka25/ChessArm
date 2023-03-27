@@ -134,7 +134,7 @@ void loop() {
   
   ## Video
   
-  [link](https://github.com/vmanka25/ChessArm/blob/main/ChessBoard2.gif?raw=true)
+  [link](https://github.com/vmanka25/ChessArm/blob/main/ChessBoard2.gif)
  
   ## Milestones
   
