@@ -152,4 +152,4 @@ void loop() {
   
   ## Reflection
   
-  This project took a lot of time and was very stressful. If we were to redo this we would have used a rough prototysooner. I would not make it a polar arm but a cartesian arm as the math and code are difficult. I would have tried to stick with the timeline and done an easier project if I could do it again. 
+  This project took a lot of time and was very stressful. If we were to redo this we would have used a rough prototype and begun to theorycraft ways out project could fail. We would not make it a cylendrical arm but instead a cartesian arm as the math and code are difficult. We would make the timeline more generous than our previous, and we would begin to take the deadline a lot (and I mean a LOT) more seriously. In all this project was a journey one that most certianly had it's ups and downs, but in the end it's working and really that's enough for the both of us.
