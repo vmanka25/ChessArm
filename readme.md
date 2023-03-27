@@ -134,8 +134,8 @@ void loop() {
   
   ## Video
   
-  ![image](https://user-images.githubusercontent.com/71350243/228046735-ac73b69f-65ea-4e17-9b49-444cad8e8284.gif)
-  
+  [link](https://github.com/vmanka25/ChessArm/blob/main/ChessBoard2.gif?raw=true)
+ 
   ## Milestones
   
   + 11/29/22 started Onshape Document
