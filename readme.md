@@ -132,12 +132,20 @@ void loop() {
 ```
   
   ## Photos
- 
+ ADD INDIVISUAL PARTS AND GIVE THEM ALL DESCRIPTIONS!
   ![GoodShot](https://user-images.githubusercontent.com/71350243/224200159-39b65a96-70e8-4f7f-bd1b-6f4d997a2ca9.png)
   
-  
+  This is the entire assembly
 
   ![GoodShot2](https://user-images.githubusercontent.com/71350243/224200193-7347c6ab-93db-44d7-b885-f2e1d252ac86.png)
+  
+  ![Pillar](https://github.com/vmanka25/ChessArm/assets/112979207/c0b435bd-7d63-4ceb-9729-258e669044a4)
+
+  
+  ![BLARRRGGH!!!!](https://github.com/vmanka25/ChessArm/assets/112979207/8a209d9d-55bb-48d7-b670-f50adbbbfa53)
+
+  
+  
   
   ## Video
   
