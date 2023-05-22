@@ -1,4 +1,9 @@
 # Chess Arm
+### What we were trying to accomplish
+This project was born off of one question.. "What if instead of using a cartisean arm for a chess robot, we use a cylendrical arm instead!"
+So we were off trying to make a project that many have done, but with a twist this time. Our goal was to have a fully functioning robot that could
+play chess with you, with a full coordinate system that would be used in tandem with the code. Needless to say this project was far too ambitious.
+
 ## Planning
 https://docs.google.com/document/d/1w128rAIOWzhnq0nkOWPgndezun0yfNx6PoaC3awFNQs/edit?usp=sharing
 ## Onshape Document
@@ -129,6 +134,8 @@ void loop() {
   ## Photos
  
   ![GoodShot](https://user-images.githubusercontent.com/71350243/224200159-39b65a96-70e8-4f7f-bd1b-6f4d997a2ca9.png)
+  
+  
 
   ![GoodShot2](https://user-images.githubusercontent.com/71350243/224200193-7347c6ab-93db-44d7-b885-f2e1d252ac86.png)
   
