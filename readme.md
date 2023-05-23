@@ -135,10 +135,15 @@ void loop() {
  ADD INDIVISUAL PARTS AND GIVE THEM ALL DESCRIPTIONS!
   ![GoodShot](https://user-images.githubusercontent.com/71350243/224200159-39b65a96-70e8-4f7f-bd1b-6f4d997a2ca9.png)
   
-  This is the entire assembly
+  This is the entire assembly, it involves two steppers which creates a full area of reach for the magnet.
 
   ![GoodShot2](https://user-images.githubusercontent.com/71350243/224200193-7347c6ab-93db-44d7-b885-f2e1d252ac86.png)
   
+  The first stepper motor is firmly cemented in the base (bottom part). Then a second stepper resides on top of that
+  so that it can move the rack in which the magnet holder resides on.
+  ![Shelf](https://github.com/vmanka25/ChessArm/assets/112979207/a77577c4-dbfb-4645-8441-94e69e36b113)
+
+  The shelf is designed as a resting place for the rack in which the magnet holder resides on. 
   ![Pillar](https://github.com/vmanka25/ChessArm/assets/112979207/c0b435bd-7d63-4ceb-9729-258e669044a4)
 
   
