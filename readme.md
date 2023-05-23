@@ -163,8 +163,8 @@ void loop() {
   
   ## Obstacles
   
-  There were many obstacles as we designed and assembled our project. The Onshape document took a lot of time to make, after we realized we made it too big and we had to make a redesigned version. This version was a lot smaller and utilized a shelf to hoist the rack and pinion. Coding was also an obstacle because neither me or Joshua are very good at coding. The Code was the singular most infuriating part of the project, we've spent weeks trying new things but eventually we found a code that worked. Vincent got sick like 3 times over the winter while I (Joshua) got sick once (not a flex or anything).
+  There were many obstacles as we designed and assembled our project. The Onshape document took a lot of time to make, after we realized we made it too big and we had to make a redesigned version. This version was a lot smaller and utilized a shelf to hoist the rack and pinion. Coding was also an obstacle because neither me or Joshua are very good at coding. The Code was the singular most infuriating part of the project, we've spent weeks trying new things but eventually we found a code that worked. Vincent got sick like 3 times over the winter while I (Joshua) got sick once (not a flex or anything). (add more stuff)
   
   ## Reflection
+  Write a better reflection.
   
-  This project took a lot of time and was very stressful. If we were to redo this we would have used a rough prototype and begun to theorycraft ways out project could fail. We would not make it a cylendrical arm but instead a cartesian arm as the math and code are difficult. We would make the timeline more generous than our previous, and we would begin to take the deadline a lot (and I mean a LOT) more seriously. In all this project was a journey one that most certianly had it's ups and downs, but in the end it's working and really that's enough for the both of us.
