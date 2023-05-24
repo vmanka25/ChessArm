@@ -144,17 +144,24 @@ void loop() {
   ![Shelf](https://github.com/vmanka25/ChessArm/assets/112979207/a77577c4-dbfb-4645-8441-94e69e36b113)
 
   The shelf is designed as a resting place for the rack in which the magnet holder resides on. 
+  
   ![Pillar](https://github.com/vmanka25/ChessArm/assets/112979207/c0b435bd-7d63-4ceb-9729-258e669044a4)
 
   This is the pillar, it is mean't to encase each side with support as the project works on multiple horizontal layers
   horizantally seperated from each other. Each pillar has two holes for the yellow piece below.
-  ![BLARRRGGH!!!!](https://github.com/vmanka25/ChessArm/assets/112979207/8a209d9d-55bb-48d7-b670-f50adbbbfa53)
+ 
+ ![BLARRRGGH!!!!](https://github.com/vmanka25/ChessArm/assets/112979207/8a209d9d-55bb-48d7-b670-f50adbbbfa53)
 
 This is the shelf it is the very thing that the magnet holder resides on, it acts as a second layer, it has a large
 hole in the middle for the stepper to fully function.
-  ![Yellow brick](https://github.com/vmanka25/ChessArm/assets/112979207/4ec6096c-9167-4fc6-addf-5eb79cbb366b)
+ 
+ ![Yellow brick](https://github.com/vmanka25/ChessArm/assets/112979207/4ec6096c-9167-4fc6-addf-5eb79cbb366b)
 
 This piece is mean't to hold the shelf up, it is the piece mean't to go into those very two holes on the pillar.
+  
+  ![Screenshot 2023-05-24 133723](https://github.com/vmanka25/ChessArm/assets/112979207/e14289c0-58ad-4332-846d-031c8d2b2e63)
+
+This is the design of the chess grid with our names on it.  
   
   
   ## Video
