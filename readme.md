@@ -149,7 +149,10 @@ void loop() {
   
   ![BLARRRGGH!!!!](https://github.com/vmanka25/ChessArm/assets/112979207/8a209d9d-55bb-48d7-b670-f50adbbbfa53)
 
-  
+
+  ![Yellow brick](https://github.com/vmanka25/ChessArm/assets/112979207/4ec6096c-9167-4fc6-addf-5eb79cbb366b)
+
+This piece is mean't to hold the shelf up, that is it's entire purpose.
   
   
   ## Video
