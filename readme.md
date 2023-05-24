@@ -132,10 +132,10 @@ void loop() {
 ```
   
   ## Photos
- ADD INDIVISUAL PARTS AND GIVE THEM ALL DESCRIPTIONS!
   ![GoodShot](https://user-images.githubusercontent.com/71350243/224200159-39b65a96-70e8-4f7f-bd1b-6f4d997a2ca9.png)
   
-  This is the entire assembly, it involves two steppers which creates a full area of reach for the magnet.
+  This is the entire assembly, it involves two steppers which creates a full area of reach for the magnet. Along with 
+  multiple layers seving a different function.
 
   ![GoodShot2](https://user-images.githubusercontent.com/71350243/224200193-7347c6ab-93db-44d7-b885-f2e1d252ac86.png)
   
@@ -146,13 +146,15 @@ void loop() {
   The shelf is designed as a resting place for the rack in which the magnet holder resides on. 
   ![Pillar](https://github.com/vmanka25/ChessArm/assets/112979207/c0b435bd-7d63-4ceb-9729-258e669044a4)
 
-  
+  This is the pillar, it is mean't to encase each side with support as the project works on multiple horizontal layers
+  horizantally seperated from each other. Each pillar has two holes for the yellow piece below.
   ![BLARRRGGH!!!!](https://github.com/vmanka25/ChessArm/assets/112979207/8a209d9d-55bb-48d7-b670-f50adbbbfa53)
 
-
+This is the shelf it is the very thing that the magnet holder resides on, it acts as a second layer, it has a large
+hole in the middle for the stepper to fully function.
   ![Yellow brick](https://github.com/vmanka25/ChessArm/assets/112979207/4ec6096c-9167-4fc6-addf-5eb79cbb366b)
 
-This piece is mean't to hold the shelf up, that is it's entire purpose.
+This piece is mean't to hold the shelf up, it is the piece mean't to go into those very two holes on the pillar.
   
   
   ## Video
