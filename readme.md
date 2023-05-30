@@ -164,15 +164,12 @@ This piece is mean't to hold the shelf up, it is the piece mean't to go into tho
 This is the design of the chess grid with our names on it.  
   
   
-  ## Video
+  # Video
   
   [link](https://github.com/vmanka25/ChessArm/blob/main/ChessBoard2.gif)
  
- 
- 
- 
- Words words words
- 
+ As you can see we managed to fully rotate the magnet and move it side to side, it took a while but we did make it.
+ Unfortunately we didn't have enough time to devolop it further.
   ## Milestones
   
   + 11/29/22 started Onshape Document
